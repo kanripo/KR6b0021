@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:00.448897
+#+DATE: 2015-08-30 19:34:01.524104
 #+TITLE: 月明菩薩經
 #+PROPERTY: CBETA_ID T03n0169
 #+PROPERTY: ID KR6b0021
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 169
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6b0021_T_000-0411a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0021_T_001-0411a> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.169¶
-
- 佛說月明菩薩經一卷¶
+No. 169¶
+佛說月明菩薩經一卷¶
 ¶
 南吳月支國居士支謙譯¶
 
@@ -80,7 +79,7 @@ No.169¶
 丘字浮曇末(漢言至誠意)，常行三事。何等為三事？¶
 一者、常持是三昧；二者、常護是三昧；三者、常¶
 誦是三昧；加有八事：常行慈心、常行哀心、¶
-常行悲心、常行護心、常行黠慧心、常行答¶
+常行悲心、常行護心、常行[烈-列+(里*吉)]慧心、常行答¶
 問心、常行喜踊心、常行第一心，以是便具¶
 降九十六種道，悉覽知一一深法不復疑。
 
