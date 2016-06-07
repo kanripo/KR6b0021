@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:00.448897
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:52
 #+TITLE: 月明菩薩經
 #+PROPERTY: CBETA_ID T03n0169
 #+PROPERTY: ID KR6b0021
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 169
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0021_T_000-0411a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0021_T_001-0411a> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.169¶
-
- 佛說月明菩薩經一卷¶
+No. 169¶
+佛說月明菩薩經一卷¶
 ¶
 南吳月支國居士支謙譯¶
 
@@ -119,9 +118,9 @@ No.169¶
 　德中德最安隱，
 　未來當作佛者，¶
 　斷貪婬去瞋恚，
-　一切人皆除愈。』」
+　一切人皆除愈。』」」
 #+END_VERSE
-」¶
+¶
 
 佛告月明童男：「爾時，至誠意比丘者，提和竭¶
 羅佛是；爾時，智力王者，今彌勒菩薩是；時，¶
